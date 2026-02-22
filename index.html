@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <title>How to Study Effectively — Presentation</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="app">
+    <header class="topbar">
+      <div class="brand">
+        <div class="logo" aria-hidden>📚</div>
+        <div class="titles">
+          <div id="deck-title">Studying 21</div>
+          <div id="deck-sub">How to Study Effectively</div>
+        </div>
+      </div>
+      <div class="controls">
+        <div class="counter" id="counter">0 / 0</div>
+        <div class="nav-buttons">
+          <button id="prevBtn" class="btn ghost" aria-label="Previous slide">←</button>
+          <button id="nextBtn" class="btn" aria-label="Next slide">→</button>
+        </div>
+        <button id="exportPdf" class="btn subtle">Export PDF</button>
+      </div>
+    </header>
+
+    <main id="stage" class="stage" role="main">
+      <!-- Slides injected here -->
+    </main>
+
+    <div class="footer-strip" aria-hidden>
+      <div class="progress">
+        <div id="progressFill" class="progress-fill"></div>
+      </div>
+    </div>
+
+    <div id="exportOverlay" class="overlay hidden">
+      <div class="overlay-card">
+        <div id="exportStatus">Preparing PDF…</div>
+        <div class="overlay-actions">
+          <button id="cancelExport" class="btn ghost">Cancel</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Libraries for PDF export -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
