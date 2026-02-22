@@ -1,0 +1,91 @@
+{
+  "title": "How to Study Effectively (Without Studying More Hours)",
+  "theme": "Pink",
+  "slides": [
+    {
+      "title": "How to Study Effectively",
+      "subtitle": "Without studying more hours",
+      "body": [
+        "Big idea: Study smarter — make practice retrieval and spacing do the heavy lifting.",
+        "System > motivation: a repeatable approach beats last-minute willpower."
+      ]
+    },
+    {
+      "title": "The Problem",
+      "body": [
+        "Most people \"study\" but don't learn.",
+        "Re-reading notes feels productive, but doesn't stick.",
+        "Highlighting makes you familiar, not fluent.",
+        "Real learning happens when your brain has to retrieve and apply." 
+      ],
+      "note": "If studying feels easy, it's probably not working."
+    },
+    {
+      "title": "Insight — Why Now",
+      "body": [
+        "Cognitive science shows retrieval + spacing create durable memory.",
+        "Students are time-pressured: swapping technique yields large returns without more hours."
+      ]
+    },
+    {
+      "title": "Solution — The 3 Rules",
+      "body": [
+        "Active recall: force your brain to pull information out.",
+        "Spaced repetition: revisit over time, not in one big block.",
+        "Deliberate practice: target what you get wrong, not what you already know."
+      ],
+      "note": "These three are the difference between 'I saw it' and 'I can do it.'"
+    },
+    {
+      "title": "How it Works — Core Methods",
+      "body": [
+        "Active recall: Blurting, practice questions, teach-back — do it before reviewing notes.",
+        "Spacing & interleaving: short sessions across days + mix topics; it will feel harder, and that's good.",
+        "Feedback loop: after every session ask: What did I get wrong? Why? Then prioritize fixes (70% weak, 30% review)."
+      ]
+    },
+    {
+      "title": "Differentiation",
+      "body": [
+        "Re-reading/highlighting = passive familiarity. Retrieval = fluent, applicable knowledge.",
+        "This approach builds exam-ready skills because it trains recall under demand, not recognition.",
+        "It scales: same system works for vocabulary, problem sets, and conceptual subjects."
+      ]
+    },
+    {
+      "title": "Use Cases — A Practical Template",
+      "body": [
+        "Simple 45-minute study template:",
+        "• 0–5 min: set a specific outcome",
+        "• 5–25 min: active recall / questions",
+        "• 25–35 min: mark + error log",
+        "• 35–45 min: re-attempt wrong questions + schedule next review",
+        "No fancy motivation needed—just a system."
+      ]
+    },
+    {
+      "title": "GTM / Distribution — How to Spread the Practice",
+      "body": [
+        "Embed the template in course syllabi and study-group routines.",
+        "Share short retrieval guides and 45-min templates through tutors, apps, and class channels.",
+        "Small bets: run a week-long "swap re-reading for retrieval" pilot with a class or cohort."
+      ]
+    },
+    {
+      "title": "Proof / Traction (placeholders)",
+      "body": [
+        "Metric: ___ (e.g., 12% MoM improvement in recall)",
+        "Customer: ___",
+        "Ask: ___"
+      ]
+    },
+    {
+      "title": "Closing — Try This One Change",
+      "body": [
+        "Effective studying isn't about time. It's about technique.",
+        "If you do only one change: swap re-reading for retrieval (practice questions + recall), then space it out.",
+        "Try the 45-minute template this week and observe the difference."
+      ]
+    }
+  ]
+}
